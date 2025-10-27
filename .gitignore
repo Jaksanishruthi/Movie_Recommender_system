@@ -1,0 +1,8 @@
+.env
+env/
+
+__pycache__/
+*.pickle
+*.pkl
+*.egg-info
+.ipynb_checkpoints/
